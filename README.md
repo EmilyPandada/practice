@@ -1,1 +1,1 @@
-# Hello, this is my first time on Github.
+# Hello, this is my first time on GitHub.
